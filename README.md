@@ -1,2 +1,4 @@
-# csc134
-CSC 134 C++ 
+# CSC 134 Repository
+Created for M1LAB
+Young
+01-15-2019
